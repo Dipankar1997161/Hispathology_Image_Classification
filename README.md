@@ -28,4 +28,9 @@ Not much of image analysis was performed, since its relatively new to me. With m
 ### Model-1
 ![TF model 1 hisstpath](https://user-images.githubusercontent.com/85514219/229327220-ec3d1eef-9a89-4b99-a495-c6f95ae04933.png)
 
+## Final Verdict:
 
+Models and Notebooks have been provided. Feel free to test it out.
+In the meantime, I will also do it alongside and improve
+
+Thank you
